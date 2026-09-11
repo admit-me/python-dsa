@@ -1,8 +1,11 @@
 # Python DSA — Interview Preparation
 
-A structured collection of Data Structures and Algorithms implemented in Python for software-engineering interview preparation.
+> Data Structures and Algorithms implemented in Python for software-engineering interviews.
+
+A structured practice repository covering core DSA topics with readable implementations, explanations, complexity analysis and interview-focused problems.
 
 ## Topics
+
 - Arrays and strings
 - Hashing and frequency counting
 - Two pointers and sliding window
@@ -17,16 +20,27 @@ A structured collection of Data Structures and Algorithms implemented in Python 
 - Greedy algorithms
 - Dynamic programming
 
-## Approach
-Each topic contains simple implementations, readable explanations, complexity notes, and practice problems.
+## Learning Approach
 
-## Run
+For each topic, focus on:
+
+1. Understanding the core data structure or algorithm
+2. Writing a clean Python implementation
+3. Analyzing time and space complexity
+4. Solving progressively harder problems
+5. Reviewing edge cases and alternative approaches
+
+## Run an Example
+
 ```bash
 python arrays/basics.py
 ```
 
-## Goal
-Build strong problem-solving fundamentals for Python developer and software-engineering interviews.
+## Interview Goal
+
+Strengthen problem-solving fundamentals for Python developer, backend and software-engineering interviews.
 
 ## Author
-Meka Praveen Kumar Reddy
+
+**Meka Praveen Kumar Reddy**  
+Python / Django Developer
